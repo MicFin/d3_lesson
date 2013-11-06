@@ -2,4 +2,9 @@
 
 // RenderData
 
-// 
+$(function() {
+	barGraph();
+})
+
+
+
